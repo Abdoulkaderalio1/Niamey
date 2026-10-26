@@ -1,0 +1,6 @@
+{
+  "name": "Le Chemin pour le Nikah",
+  "description": "Plateforme nigérienne de mise en relation matrimoniale islamique dans le respect de la pudeur, de la foi et des traditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
